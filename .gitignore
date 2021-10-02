@@ -1,0 +1,10 @@
+*.txt
+*~
+
+# editor
+.vscode
+.ccls-cache
+.idea
+
+*.in
+*.out
